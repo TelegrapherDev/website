@@ -1,0 +1,14 @@
+{
+  "name": "telegrapher-website",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "git@github.com:TelegrapherBots/website.git",
+  "author": "Marcel Müller <neikos@neikos.email>",
+  "license": "None",
+  "private": true,
+  "devDependencies": {
+    "bulma": "^0.9.0",
+    "parcel": "^1.12.4",
+    "sass": "^1.26.10"
+  }
+}
